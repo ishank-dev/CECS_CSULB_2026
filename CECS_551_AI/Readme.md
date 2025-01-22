@@ -27,7 +27,7 @@ Implemented a multi-layer neural network without using external deep learning li
 - Plotting loss vs. epochs.
 
 **Repository**:  
-[Multi-Layer Perceptron]([https://github.com/ishank-dev/CECS551-Assignment2](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_2/Assignment%202%20MLP%20(4).ipynb)
+[Multi-Layer Perceptron](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_2/Assignment%202%20MLP%20(4).ipynb))
 
 ---
 

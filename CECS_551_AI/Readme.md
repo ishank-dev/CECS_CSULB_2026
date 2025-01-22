@@ -48,7 +48,7 @@ The MNIST dataset was used to train and validate the models, testing various com
 - Identified optimal hyperparameters for best test accuracy.
 
 **Repository**:  
-[Hyperparameter Tuning]([https://github.com/ishank-dev/CECS551-Assignment3](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_3/Assignment%20AI%20(3)%20(5).ipynb))
+[Hyperparameter Tuning](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_3/Assignment%20AI%20(3)%20(5).ipynb))
 
 ---
 

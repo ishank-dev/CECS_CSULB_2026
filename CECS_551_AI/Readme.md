@@ -27,7 +27,7 @@ Implemented a multi-layer neural network without using external deep learning li
 - Plotting loss vs. epochs.
 
 **Repository**:  
-[Multi-Layer Perceptron](https://github.com/ishank-dev/CECS551-Assignment2)
+[Multi-Layer Perceptron]([https://github.com/ishank-dev/CECS551-Assignment2](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_2/Assignment%202%20MLP%20(4).ipynb)
 
 ---
 
@@ -48,7 +48,7 @@ The MNIST dataset was used to train and validate the models, testing various com
 - Identified optimal hyperparameters for best test accuracy.
 
 **Repository**:  
-[Hyperparameter Tuning](https://github.com/ishank-dev/CECS551-Assignment3)
+[Hyperparameter Tuning]([https://github.com/ishank-dev/CECS551-Assignment3](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_3/Assignment%20AI%20(3)%20(5).ipynb))
 
 ---
 
@@ -66,27 +66,7 @@ Designed and experimented with Convolutional Neural Networks (CNNs) to classify 
 - Comprehensive reporting of results.
 
 **Repository**:  
-[Classification with CNN](https://github.com/ishank-dev/CECS551-Assignment4)
-
----
-
-## Research Paper Review
-
-**Description**:  
-Reviewed a research paper from a top-tier ML conference (NeurIPS, ICML, CVPR, ICLR, or ICCV). This project involved:
-- Summarizing the objectives, contributions, methods, and experimental results.
-- Preparing a 5-minute video presentation and slide deck.
-- Writing a detailed report highlighting key insights.
-
-**Key Features**:
-- Summarized cutting-edge research.
-- Presented findings in a concise and clear manner.
-- Engaged with top-tier AI research.
-
-**Repository**:  
-[Research Paper Review](https://github.com/ishank-dev/CECS551-Assignment5)
-
----
+[Classification with CNN](https://github.com/ishank-dev/CECS_CSULB_2026/blob/main/CECS_551_AI/Assignment_4/Assignment%204%20Final%20AI%20(2)%20(1).ipynb)
 
 ## How to Use
 
